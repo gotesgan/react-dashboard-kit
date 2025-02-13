@@ -1,0 +1,14 @@
+{
+  "name": "react-dashboard-kit",
+  "version": "1.1.3",
+  "description": "is frontend componts for react dashbaord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lucide-react": "^0.475.0"
+  }
+}
