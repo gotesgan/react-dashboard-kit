@@ -1,5 +1,5 @@
 import Card from "./Card";
-import Dashboard from "./dashbaord";
+import Dashboard from "./Dashboard";
 import Navbar from "./DashboardNavbar";
 import Sidebar from "./DashboardSidebar";
 import Modal from "./ui/Model";
@@ -27,11 +27,11 @@ export {
   DateInputField,
   FileUpload,
   InputField,
-  Feature,
+  RemovableFieldGroup,
   TimeInputField,
   DataFetcher,
   Home,
   StatCard,
   Toast,
-  TableDeatiledview,
+  TableDetailView ,
 };
