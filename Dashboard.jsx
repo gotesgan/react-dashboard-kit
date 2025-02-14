@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Navbar from "./ DashboardNavbar";
+import Navbar from "./DashboardNavbar";
 import Sidebar from "./DashboardSidebar";
 import { HomeIcon, Package, BookOpen, Star, UserPlus } from "lucide-react";
 

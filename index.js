@@ -1,7 +1,7 @@
 import Card from "./Card";
 import Dashboard from "./dashbaord";
-import Navbar from "./ DashboardNavbar";
-import Sidebar from "./Dashboardsidebar";
+import Navbar from "./DashboardNavbar";
+import Sidebar from "./DashboardSidebar";
 import Modal from "./ui/Model";
 import Tabs from "./ui/Tabs";
 import { ArrayField } from "./Form/ArrayField";
@@ -14,7 +14,7 @@ import { DataFetcher } from "./home card/DataFetcher";
 import Home from "./home card/Home";
 import { StatCard } from "./home card/StatCard";
 import { Toast } from "./ui/Toast";
-import TableDeatiledview from "./TableDeatiledview";
+import TableDetailView from "./TableDetailedView";
 
 export {
   Card,
